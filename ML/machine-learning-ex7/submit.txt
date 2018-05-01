@@ -1,0 +1,47 @@
+
+编程作业: K-Means Clustering and PCA
+
+
+
+截止时间 
+在以下日期前通过此作业 March 4, 11:59 PM PST 
+
+
+
+
+说明
+我提交的作业
+讨论
+
+
+
+
+
+
+
+
+
+
+Download the programming assignment here. This ZIP file contains the instructions in a PDF and the starter code. You may use either MATLAB or Octave (>= 3.8.0). To submit this assignment, call the included submit function from MATLAB / Octave. You will need to enter the token provided on the right-hand side of this page. 
+
+
+
+
+
+How to submit
+
+Copy the token below and run the submission script included in the assignment download. When prompted, use your email address zhwavelet@163.com. 
+
+
+
+
+
+
+Z0yfeEsQGhzG9283
+
+Generate new token
+
+
+
+
+Your submission token is unique to you and should not be shared with anyone. You may submit as many times as you like.
